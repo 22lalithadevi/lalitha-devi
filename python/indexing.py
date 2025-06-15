@@ -1,0 +1,13 @@
+n=['java','python','c','c++','sql','Db']
+print("accessing list using +ve indexing:")
+print(n[0])
+print(n[1])
+print(n[2])
+print(n[3])
+print(n[4])
+print("accessing list using -ve indexing:")
+print(n[-5])
+print(n[-4])
+print(n[-3])
+print(n[-2])
+print(n[-1])
